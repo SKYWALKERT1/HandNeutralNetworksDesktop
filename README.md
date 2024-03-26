@@ -1,5 +1,3 @@
-# HandNeutralNetworksDesktop
-
 # Hand Gesture Control with PyAutoGUI and Mediapipe
 
 This project enables computer mouse control using hand gestures with the MediaPipe and PyAutoGUI libraries. Different hand movements simulate mouse clicks, right clicks, and mouse holding actions.
